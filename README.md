@@ -1,4 +1,4 @@
-Welcome to the Git repository for the Workshop “Resilience quantification in humans”
+Welcome to the Git repository for information on how to quantify stress resilience in humans using residual-based methods, in particular the 'stressor reactivity' (SR) score.
 
 In the publicaiton folder you can find a list of relevant literature on the topic of psychological resilience (theory and reviews), methods of quantifying resilience by using the stress reactivity (SR) score, and a number of exemplar papers calculating the SR score using real world data.
 
